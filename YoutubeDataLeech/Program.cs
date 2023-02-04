@@ -11,7 +11,6 @@ namespace YoutubeDataLeech
         [STAThread]
         static void Main(string[] args) {
            new LeechWindow().ShowDialog();
-            Console.ReadLine();
         }
     }
 }
