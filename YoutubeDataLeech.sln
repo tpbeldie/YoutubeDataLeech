@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YoutubeDataLeech", "YoutubeDataLeech\YoutubeDataLeech.csproj", "{B8E68BD8-46A7-4277-AB05-2CF8B51F6373}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8E68BD8-46A7-4277-AB05-2CF8B51F6373}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8E68BD8-46A7-4277-AB05-2CF8B51F6373}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8E68BD8-46A7-4277-AB05-2CF8B51F6373}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8E68BD8-46A7-4277-AB05-2CF8B51F6373}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0DB0101B-8C39-4E59-A050-2B59E1B65CC4}
+	EndGlobalSection
+EndGlobal
